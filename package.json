@@ -1,0 +1,19 @@
+{
+  "name": "do-vue",
+  "version": "1.0.0",
+  "description": "task vue es un ejemplo de CRUD de Registro de tareas con VUE JS y local storage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesselizCB/Task-vue.git"
+  },
+  "author": "Yesseliz CB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesselizCB/Task-vue/issues"
+  },
+  "homepage": "https://github.com/JesselizCB/Task-vue#readme"
+}
